@@ -7,7 +7,7 @@ Currently the only supported database is **Mysql**, however you are encoureged t
 Add this line to your application's Gemfile:
 
 ```bash
-gem 'csv_import'
+gem 'csv_import', git: 'git://github.com/BadrIT/csv_import.git'
 ```
 Add this line your database.yml config under each environment:
 ```local_infile: true```

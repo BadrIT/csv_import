@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = CsvImport::VERSION
   s.authors     = ["Loai Ghoraba"]
   s.email       = ["loai.ghoraba@gmail.com"]
-  # s.homepage    = "TODO"
+  s.homepage    = "https://github.com/BadrIT/csv_import"
   s.summary     = "Import records to database by transforming them to CSV rows first then inserting them using the database csv specific importer"
   s.description = "Import records to database by transforming them to CSV rows first then inserting them using the database csv specific importer"
   s.license     = "MIT"
